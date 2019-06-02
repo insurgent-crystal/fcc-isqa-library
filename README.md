@@ -1,0 +1,2 @@
+# fcc-isqa-library
+Silence
